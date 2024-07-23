@@ -1,0 +1,38 @@
+<nav
+  class="navbar navbar-expand-lg navbar-light"
+  style="background-color: #93617b"
+>
+  <div class="container-fluid">
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <a class="navbar-brand" href="#">
+        <img
+          src="https://svgshare.com/i/18YU.svg"
+          alt=""
+          width="40"
+          height="40"
+        />
+      </a>
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0 cc-titulo-navbar text-light">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="/">Início</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="/listacartas"
+            >Cartas Clow</a
+          >
+        </li>
+      </ul>
+      <form class="d-flex" action="/pesquisar" method="post">
+        <input
+          class="form-control me-2"
+          type="search"
+          placeholder=""
+          aria-label="Search"
+          name="nome_carta"
+        />
+        <button class="btn btn-outline-success" type="submit">Pesquisar</button>
+      </form>
+    </div>
+  </div>
+</nav>

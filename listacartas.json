@@ -1,0 +1,262 @@
+[
+  {
+    "nome": "Vento",
+    "descricao": "A carta Vento faz uma corrente de vento que pode prender outras cartas, ou impedir a queda de alguém. É uma das cartas que Sakura mais usa, e foi a primeira que ela obteve.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/05-THE-WINDY.jpg"
+  },
+  {
+    "nome": "Alada",
+    "descricao": "A carta Alada, quando está livre, tem a forma de um grande pássaro. Quando usada por Sakura, fornece asas para o bastão, permitindo-a voar.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/07-THE-FLY.jpg"
+  },
+  {
+    "nome": "Sombra",
+    "descricao": "Esta carta, quando está livre, pode levantar objetos como se fosse uma pessoa – mas só a sombra aparece. Também pode roubar outras sombras e usá-las para atacar. Quando usada por Sakura, pode fazer várias coisas, por exemplo, agir como se fosse outra Sakura, podendo realizar ações à distância.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/08-THE-SHADOW.jpg"
+  },
+  {
+    "nome": "Água",
+    "descricao": "Esta é uma carta bastante forte. Água é uma das 4 cartas principais (as outras cartas de elementos como a Água são Vento, Fogo e Terra).",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/04-THE-WATERY.jpg"
+  },
+  {
+    "nome": "Bosque",
+    "descricao": "Esta carta é bem pacífica e gentil. Ele só se empolga um pouco na presença de Chuva.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/09-THE-WOOD.jpg"
+  },
+  {
+    "nome": "Chuva",
+    "descricao": "Chuva, basicamente, chove… Com pouca ou muita força. É uma carta que gosta de aprontar.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/10-THE-RAIN.jpg"
+  },
+  {
+    "nome": "Salto",
+    "descricao": "Esta carta faz objetos pularem, particularmente bichinhos de pelúcia.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/11-THE-JUMP.jpg"
+  },
+  {
+    "nome": "Ilusão",
+    "descricao": "Ilusão toma a forma daquilo que as pessoas querem ver, de fantasmas a bolinhos.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/12-THE-ILLUSION.jpg"
+  },
+  {
+    "nome": "Silêncio",
+    "descricao": "Esta carta gosta de lugares quietos, e quando uma pessoa se aproxima fazendo barulho, ela transporta-se para longe.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/13-THE-SILENT.jpg"
+  },
+  {
+    "nome": "Trovão",
+    "descricao": "Trovão é uma carta forte, porém sem nenhuma característica especial. Pode tomar a forma de um raio, mas sua verdadeira forma é a mesma do desenho da carta.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/28-THE-THUNDER.jpg"
+  },
+  {
+    "nome": "Espada",
+    "descricao": "Espada tem a forma de um broche quando está livre. Quando uma pessoa coloca o broche, a carta domina essa pessoa e se transforma em uma espada. Para capturá-la é necessário tirar a espada das mãos da pessoa dominada.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/29-THE-SWORD.jpg"
+  },
+  {
+    "nome": "Flor",
+    "descricao": "Flor é uma carta pacífica que gosta apenas de se divertir e espalhar suas flores em eventos e festivais para deixá-los mais bonitos. Mas às vezes exagera…",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/30-THE-FLOWER.jpg"
+  },
+  {
+    "nome": "Escudo",
+    "descricao": "Quando está livre, esta carta forma um escudo em torna de algo que tenha valor (não necessariamente material). Quando usada por Sakura, protege contra vários ataques.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/31-THE-SHIELD.jpg"
+  },
+  {
+    "nome": "Tempo",
+    "descricao": "Esta carta pode fazer o tempo voltar ou avançar. À meia-noite, Tempo pode voltar um dia inteiro. Quando usada por Shaoran, esta carta pára o tempo.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/32-THE-TIME.jpg"
+  },
+  {
+    "nome": "Poder",
+    "descricao": "Esta carta parece bonitinha, mas tem uma força tremenda e adora se exibir levantando elefantes ou escorregadores pesadíssimos.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/33-THE-POWER.jpg"
+  },
+  {
+    "nome": "Névoa",
+    "descricao": "A névoa que essa carta faz pode destruir paredes e ruir construções, pois desgasta tudo que toca rapidamente.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/34-THE-MIST.jpg"
+  },
+  {
+    "nome": "Tempestade",
+    "descricao": "Esta carta aparece bem rapidamente. Quando livre tem a forma parecida com um tornado.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/36-THE-STORM.jpg"
+  },
+  {
+    "nome": "Flutuação",
+    "descricao": "Esta carta simplesmente faz as pessoas e coisas flutuarem, quando está livre ou quando usada por Sakura.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/35-THE-FLOAT.jpg"
+  },
+  {
+    "nome": "Apagar",
+    "descricao": "Esta carta simplesmente apaga pessoas! Depois que Sakura a captura, essas pessoas voltam, mas esquecem o que aconteceu.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/37-THE-ERASE.jpg"
+  },
+  {
+    "nome": "Brilho",
+    "descricao": "Esta carta, quando está livre, tem a forma de vários pontos de luz verdes, como se fossem vaga-lumes. Brilho não faz mais nada além de brilhar…",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/38-THE-GLOW.jpg"
+  },
+  {
+    "nome": "Movimento",
+    "descricao": "Esta carta muda objetos de lugar, mas só coisas pequenas e adora se divertir com isso…",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/39-THE-MOVE.jpg"
+  },
+  {
+    "nome": "Luta",
+    "descricao": "Esta carta é muito forte e obviamente sua especialidade é lutar. Adora desafiar outros lutadores.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/40-THE-FIGHT.jpg"
+  },
+  {
+    "nome": "Volta",
+    "descricao": "Volta liga dois lugares. Por exemplo, o começo e o fim de uma rua. Assim, quem estiver andando nesta rua nunca vai chegar ao final. Também chamada de Aro.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2010/02/41-THE-LOOP.jpg"
+  },
+  {
+    "nome": "Sono",
+    "descricao": "Aqueles que encostam no pó que Sono espalha simplesmente dormem.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/14-THE-SLEEP.jpg"
+  },
+  {
+    "nome": "Canção",
+    "descricao": "Esta carta imita a voz de alguém, de preferência a voz mais bonita que encontrar.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/15-THE-SONG.jpg"
+  },
+  {
+    "nome": "Pequeno",
+    "descricao": "Essa carta simplesmente faz uma pessoa diminuir de tamanho. Para isso, deve-se encostar nela. Para voltar ao normal, deve-se encostar novamente nela.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/16-THE-LITTLE.jpg"
+  },
+  {
+    "nome": "Espelho",
+    "descricao": "A carta Espelho é uma carta especial. Para ser capturada, deve-se dizer o nome dela. Essa carta, quando está livre, toma a forma de uma pessoa e sai aprontando por aí. Quando usada por Sakura, além de poder tomar a forma de uma pessoa, pode simplesmente agir como um espelho.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/17-THE-MIRROR.jpg"
+  },
+  {
+    "nome": "Labirinto",
+    "descricao": "A carta Labirinto, é obviamente, um labirinto. Não é possível sair dele usando a carta Alada, por exemplo, pois as paredes simplesmente aumentam de altura. A carta Espada consegue cortar as paredes, mas elas se fecham logo depois.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/18-THE-MAZE.jpg"
+  },
+  {
+    "nome": "Retorno",
+    "descricao": "A carta Retorno é capaz de mandar uma pessoa ao passado. Para isso, ela precisa de uma grande quantidade de energia. Além disso, precisa de uma outra pessoa.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/19-THE-RETURN.jpg"
+  },
+  {
+    "nome": "Disparo",
+    "descricao": "A carta Disparo é uma carta de ataque muito poderosa e ágil. Quando está livre, ela tem a forma de uma bola de luz que dispara tiros nas pessoas.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/20-THE-SHOT.jpg"
+  },
+  {
+    "nome": "Doce",
+    "descricao": "A carta Doce gosta de adoçar qualquer tipo de alimento, de preferência bolos. Ela também pode transformar objetos em doces, mas quando é capturada eles voltam ao normal.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/21-THE-SWEET.jpg"
+  },
+  {
+    "nome": "Corrida",
+    "descricao": "A carta Corrida, obviamente, corre rápido. Entretanto, ela se cansa com facilidade. Ela tem a forma de um animal parecido com uma raposa.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/22-THE-DASH.jpg"
+  },
+  {
+    "nome": "Grande",
+    "descricao": "A carta Grande é capaz de aumentar pessoas e animais. É uma carta pacífica, mas que aumenta tudo o que vê pela frente.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/24-THE-BIG.jpg"
+  },
+  {
+    "nome": "Criatividade",
+    "descricao": "A carta Criatividade tem a forma de um livro, sem título, que pára no meio com um pedido para que a pessoa complete a história, junto com uma pena. O que a pessoa escrever se tornará realidade!",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/23-THE-CREATE.jpg"
+  },
+  {
+    "nome": "Troca",
+    "descricao": "Quando duas pessoas encostam na forma livre desta carta ao mesmo tempo, elas trocam de lugar! É preciso esperar um dia para a magia enfraquecer e poder trocá-las novamente. Para isso, as duas pessoas devem estar abraçadas.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/25-THE-CHANGE.jpg"
+  },
+  {
+    "nome": "Congelante",
+    "descricao": "Esta carta é forte e briguenta. Ela pode congelar pessoas, fazer gelo e esfriar a temperatura.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/26-THE-FREEZE.jpg"
+  },
+  {
+    "nome": "Fogo",
+    "descricao": "A carta Fogo é uma poderosa carta de ataque. Quando esta carta foi capturada, Kero teve seus poderes de volta.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/03-THE-FIREY.jpg"
+  },
+  {
+    "nome": "Flecha",
+    "descricao": "Esta carta é bem poderosa e é capaz de disparar várias flechas ao mesmo tempo.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/27-THE-ARROW.jpg"
+  },
+  {
+    "nome": "Através",
+    "descricao": "Não existe um episódio onde mostra esta carta sendo capturada. No episódio 36, Kero pega as Cartas Clow dizendo que Sakura tinha capturado várias nas férias, e entre as cartas estava The Through. Essa carta permite que se atravesse objetos sólidos.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/46-THE-THROUGH.jpg"
+  },
+  {
+    "nome": "Bolhas",
+    "descricao": "Não existe um episódio onde mostra esta carta sendo capturada. No episódio 36, Kero pega as Cartas Clow dizendo que Sakura tinha capturado várias nas férias, e entre as cartas estava The Bubbles. Essa carta permite lavar coisas.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/43-THE-BUBBLES.jpg"
+  },
+  {
+    "nome": "Onda",
+    "descricao": "Não existe um episódio onde mostra esta carta sendo capturada. No episódio 36, Kero pega as Cartas Clow dizendo que Sakura tinha capturado várias nas férias, e entre as cartas estava The Wave. Essa carta permite formar ondas na água.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/44-THE-WAVE.jpg"
+  },
+  {
+    "nome": "Balança",
+    "descricao": "Não existe um episódio onde mostra esta carta sendo capturada. No episódio 36, Kero pega as Cartas Clow dizendo que Sakura tinha capturado várias nas férias, e entre as cartas estava The Libra. Essa carta julga se uma pessoa está dizendo a verdade ou não.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/45-THE-LIBRA.jpg"
+  },
+  {
+    "nome": "Neve",
+    "descricao": "A carta Neve faz nevar bastante e pode até fazer uma pequena tempestade de neve.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/42-THE-SNOW.jpg"
+  },
+  {
+    "nome": "Voz",
+    "descricao": "A carta Voz, quando encontra alguém com uma voz bonita, rouba a voz dessa pessoa e depois se esconde para que ninguém possa pegá-la de volta.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/47-THE-VOICE.jpg"
+  },
+  {
+    "nome": "Cadeado",
+    "descricao": "Esta carta é uma carta especial, ou seja, não pode ser capturada por outras Cartas Clow. Para fazer isso, Sakura teve que usar sua chave mágica.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/48-THE-LOCK.jpg"
+  },
+  {
+    "nome": "Nuvem",
+    "descricao": "Nuvem pode cobrir uma cidade inteira. É parecida com a carta Chuva em sua forma verdadeira.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/49-THE-CLOUD.jpg"
+  },
+  {
+    "nome": "Sonho",
+    "descricao": "A carta Sonho pode fazer as pessoas sonharem mesmo quando estão acordadas. Seus sonhos são premonições. Quando está livre, tem a forma de uma borboleta azul.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/50-THE-DREAM.jpg"
+  },
+  {
+    "nome": "Areia",
+    "descricao": "A carta Areia pode formar um imenso redemoinho, além de ser bem forte. Ela é resistente à água, mas não resiste ao gelo.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/51-THE-SAND.jpg"
+  },
+  {
+    "nome": "Luz",
+    "descricao": "Esta carta “morou” dentro de Sakura desde que ela libertou as Cartas Clow. Como Sakura ficou determinada a não desistir e com a ideia fixa de que tudo daria certo quando ficou no escuro por causa da carta Trevas, a carta pode se libertar de dentro da Sakura. Com isso, Trevas também voltou à sua forma original (na verdade ela era “do bem”).",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/01-THE-LIGHT.jpg"
+  },
+  {
+    "nome": "Trevas",
+    "descricao": "Esta carta transporta aqueles que têm magia para um lugar totalmente envolto pela escuridão. Após ser capturada, tudo volta ao normal. Para as outras pessoas, é como se nada tivesse acontecido. Trevas e Luz, além de poderem falar (a única carta que também pode é Espelho), parecem saber mais sobre o que Sakura terá que enfrentar do que as outras cartas.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/02-THE-DARK.jpg"
+  },
+  {
+    "nome": "Gêmeos",
+    "descricao": "Essa carta é formada por dois Gêmeos, que podem duplicar coisas e até pessoas! (Embora a duplicata faça as mesmas coisas do que o original, ao contrário de Espelho). Para capturá-la, deve-se derrotar os dois ao mesmo tempo.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/52-THE-TWIN.jpg"
+  },
+  {
+    "nome": "Terra",
+    "descricao": "Essa carta é extremamente poderosa, e pode fazer surgir vários montes de terra e provocar terremotos. Sua forma verdadeira é uma espécie de cobra feita com rochas. Junto com Fogo, devolve Kero à sua forma original quando capturada.",
+    "imagem" : "https://i0.wp.com/projetosakura.net/wp-content/uploads/2009/01/06-THE-EARTHY.jpg"
+  }
+]

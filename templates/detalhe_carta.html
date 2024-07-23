@@ -1,0 +1,16 @@
+{% extends 'base.html' %} {% block content %}
+
+<div class="text-center mt-3 mb-5">
+  <h1>Carta {{carta.nome}}</h1>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-4">
+      <img src="{{carta.imagem}}" style="width: 70%" />
+    </div>
+    <div class="col-8">{{carta.descricao}}</div>
+  </div>
+</div>
+
+{% endblock %}

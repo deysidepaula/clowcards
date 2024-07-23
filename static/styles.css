@@ -1,0 +1,25 @@
+body {
+  background-image: url("/static/skybg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position-y: top;
+  background: fill;
+}
+
+.cc-titulo-navbar {
+  font-family: "Zain", sans-serif;
+  font-size: 20px;
+}
+
+.cc-titulo-pagina {
+  color: #000000;
+  font-family: "Zain", sans-serif;
+  font-size: 60px;
+}
+
+.cc-titulo-carta {
+  color: #93617b;
+  font-family: "Zain", sans-serif;
+  font-size: 40px;
+}
