@@ -7,18 +7,18 @@ body {
   background: fill;
 }
 
-.navbar-nav {
-  color: #f9f5e3;
-}
-
 .cc-mensagem-home {
   color: #563259;
   font-family: "Playfair Display", serif;
   font-optical-sizing: auto;
 }
-.cc-titulo-navbar {
+
+.navbar .navbar-nav .nav-link {
+  color: #f9f5e3;
   font-family: "Playfair Display", serif;
   font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
   font-size: 20px;
 }
 
