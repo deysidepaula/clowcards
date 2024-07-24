@@ -1,18 +1,16 @@
 {% extends 'base.html' %} {% block content %}
 
-<div class="text-center mt-3 mb-5 cc-titulo-pagina">
-  <span>Cartas Clow</span>
-</div>
-
-<div class="container">
+<div class="container mt-5">
   <div class="row">
     {% for carta in cartas %}
     <div class="col-2">
-      <div class="card border-0" style="width: 14rem">
+      <div class="bg-green border-0" style="width: 14rem">
         <img src="{{carta.imagem}}" class="card-img-top" alt="..." />
         <div class="card-body text-center">
-          <h5 class="card-title cc-titulo-carta">{{carta.nome}}</h5>
-          <a href="/listacartas/{{carta.id}}" class="btn btn-light mb-5"
+          <h5 class="card-title mt-2 cc-titulo-carta">{{carta.nome}}</h5>
+          <a
+            href="/listacartas/{{carta.id}}"
+            class="btn btn-outline-light mt-3 mb-5 cc-btn-detalhes"
             >Detalhes</a
           >
         </div>

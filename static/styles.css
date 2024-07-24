@@ -1,37 +1,103 @@
 body {
-  background-color: #a95f6a;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
+  background-image: url("/static/bg.jpg");
+  background-repeat: repeat;
   background-position-y: top;
-  background: fill;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
 }
 
 .cc-mensagem-home {
-  color: #563259;
-  font-family: "Playfair Display", serif;
+  color: #a95f83;
+  background-color: #f9f5e39e;
+  border-radius: 25px;
+  font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 30px;
 }
 
-.navbar .navbar-nav .nav-link {
-  color: #f9f5e3;
-  font-family: "Playfair Display", serif;
+.cc-imagem-home {
+  height: 600px;
+  width: 100%;
+}
+
+.cc-home-texto {
+  color: #a95f83;
+  text-align: justify;
+  text-justify: inter-word;
+  font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
   font-weight: 600;
   font-style: normal;
   font-size: 20px;
 }
 
-.cc-titulo-pagina {
+.navbar {
+  background-color: #a95f83e3;
+}
+
+.navbar .navbar-nav .nav-link {
   color: #f9f5e3;
-  font-family: "Playfair Display", serif;
+  font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 20px;
+}
+
+.cc-btn-pesquisar {
+  color: #f9f5e3;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.cc-titulo-pagina {
+  color: #a95f83;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
   font-size: 50px;
 }
 
 .cc-titulo-carta {
-  color: #563259;
-  font-family: "Playfair Display", serif;
+  color: #a95f83;
+  font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
   font-size: 30px;
+}
+
+.cc-btn-detalhes {
+  color: #a95f83;
+  background-color: #f9f5e3b2;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.cc-carta-detalhe {
+  color: #a95f83;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 30px;
+}
+
+.cc-carta-descricao {
+  color: #a95f83;
+  text-align: justify;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 20px;
 }
