@@ -34,4 +34,4 @@ def pesquisar():
     return redirect(f"/listacartas/{carta.id}")
 
 
-app.run(debug=True)
+app.run(debug=True, port=80)
