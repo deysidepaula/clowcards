@@ -1,5 +1,5 @@
 body {
-  background-image: url("/static/skybg.jpg");
+  background-color: #a95f6a;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -7,19 +7,31 @@ body {
   background: fill;
 }
 
+.navbar-nav {
+  color: #f9f5e3;
+}
+
+.cc-mensagem-home {
+  color: #563259;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+}
 .cc-titulo-navbar {
-  font-family: "Zain", sans-serif;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
   font-size: 20px;
 }
 
 .cc-titulo-pagina {
-  color: #000000;
-  font-family: "Zain", sans-serif;
-  font-size: 60px;
+  color: #f9f5e3;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-size: 50px;
 }
 
 .cc-titulo-carta {
-  color: #93617b;
-  font-family: "Zain", sans-serif;
-  font-size: 40px;
+  color: #563259;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-size: 30px;
 }
